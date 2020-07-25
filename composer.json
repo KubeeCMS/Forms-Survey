@@ -1,0 +1,16 @@
+{
+    "name": "kubeecms/forms-survey",
+    "description": "Survey for Forms ...",
+    "keywords": ["kubee", "kubeecms", "forms", "save", "forms-save"],
+    "homepage": "https://github.com/kubeecms/forms-survey",
+    "authors": [
+      {
+        "name": "Kubee CMS",
+        "homepage": "https://github.com/KubeeCMS/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.2"
+    }
+  }
